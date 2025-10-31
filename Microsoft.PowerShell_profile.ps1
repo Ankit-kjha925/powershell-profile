@@ -1,0 +1,94 @@
+#ALIASES
+Set-Alias tt tree
+Set-Alias ll ls
+Set-Alias g git
+Set-Alias vim nvim
+Set-Alias cc clear 
+Set-Alias dd dir
+
+# myprofile is tokyo
+# myprofile2 is tokyonightstorm 
+# myprofile3 is amro [it is a great theme for quick load and utilization]
+# myprofile4 is material
+
+# PROMPT
+#oh-my-posh init pwsh | Invoke-Expression
+#oh-my-posh init pwsh --config 'C:\Users\Ankit\OneDrive\Documents\PowerShell\myprofile.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'C:\Users\Ankit\OneDrive\Documents\PowerShell\myprofile2.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'C:\Users\Ankit\OneDrive\Documents\PowerShell\myprofile3.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'C:\Users\Ankit\OneDrive\Documents\PowerShell\myprofile4.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/atomic.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/agnoster.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/borealis.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/amro.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/atomicBit.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/cloud-context.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/material.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/catpuccin.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/catpuccin_mocha.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/catpuccin_macchaiato.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/catpuccin_frappe.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/catpuccin_latte.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/easy-term.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/clean-detailed.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/nordtron.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/night-owl.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/powerlevel10k_lean.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/powerlevel10k_classic.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/sonicboom_dark.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/sonicboom_light.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/takuya.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/tokyo.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/tokyonight_storm.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/the-unnamed.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/tiwahu.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/powerline.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/multiverse-neon.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/kali.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/json.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/half-life.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/dracula.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/darkblood.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/space-ship.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/star.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/uew.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/wholespace.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/wopian.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/zash.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/easy-term.omp.json' | Invoke-Expression
+#oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/gruvbox.omp.json' | #Invoke-Expression
+
+# ========================================================================================================================
+# Functions
+# function to quickly navigate to ARGOS directory without typing the full path each time c:/ARGOS/CAPSTONE_PROJECT
+function argos { Set-Location -Path "C:\ARGOS" }
+Set-Alias cdargos argos
+
+# function 
+
+function whereis ($command) {
+	Get-Command -Name $command -ErrorAction SilentlyContinue |
+	Select-Object -ExpandProperty Path -ErrorAction SilentlyContinue
+}
+
+# =========================================================================================================================
+ 
+Import-Module Terminal-Icons
+
+# PSReadline 
+Import-Module PSReadline
+Set-PSReadLineKeyHandler -Key Tab -Function Complete
+Set-PSReadLineOption -PredictionViewStyle ListView
+Set-PSReadLineOption -PredictionSource History
+Set-PSReadLineOption -BellStyle None
+
+# Import the Chocolatey Profile that contains the necessary code to enable
+# tab-completions to function for `choco`.
+# Be aware that if you are missing these lines from your profile, tab completion
+# for `choco` will not function.
+# See https://ch0.co/tab-completion for details.
+
+$ChocolateyProfile = "$env:ChocolateyInstall\helpers\chocolateyProfile.psm1"
+if (Test-Path($ChocolateyProfile)) {
+  Import-Module "$ChocolateyProfile"
+}
