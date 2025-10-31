@@ -76,7 +76,7 @@ The profile includes these aliases:
 - `vim` → `nvim`
 - `cc` → `clear`
 - `dd` → `dir`
-- `cdargos` → Navigate to `C:\ARGOS`
+- `cdargos` → Navigate to `C:\ARGOS`(ARGOS was the folder which mainly consisted my projects and i needed to access it very frequently. feel free to add your own folder that you need quick access for)
 
 ### Themes
 
